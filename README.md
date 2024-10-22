@@ -4,4 +4,4 @@
 🔭 I'm always open to new projects and opportunities. <br>
 📫 Feel free to reach me at elzouain@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elzouain)](https://github.com/elzouain/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elzouain&layout=donut)](https://github.com/elzouain/github-readme-stats)
